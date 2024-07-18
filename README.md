@@ -32,4 +32,5 @@ Example below.
 ![Paragon SOAR-EDR Logical Diagram](https://github.com/user-attachments/assets/d556f038-40a1-4f2a-9624-67dcc436ef36)
 
 
+* Vultr - The Windows VM in the Cloud!
 <img width="1104" alt="Vultr- The windows VM in the cloud" src="https://github.com/user-attachments/assets/b811385d-e40d-4686-89f3-647ae0a9b299">
