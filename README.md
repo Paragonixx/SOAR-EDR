@@ -1,3 +1,4 @@
+![Screenshot 2024-07-06 at 1 57 09 AM](https://github.com/user-attachments/assets/b727e440-e9f4-4903-81f7-1222f7d5a5af)
 # SOAR EDR
 
 ## Objective
