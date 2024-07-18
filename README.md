@@ -53,5 +53,5 @@ Example below.
 * In Tines, I created a webhook to retrieve the detections! (included: below is the detection)!
 
 ![Screenshot 2024-07-18 at 11 23 11 AM](https://github.com/user-attachments/assets/e2828953-f2e4-4539-8eab-61a08b1ea351)
-![Screenshot 2024-07-07 at 10 54 32 AM](https://github.com/user-attachments/assets/cfa9a6b0-b42e-437e-9a72-657b7a5ce995)
 
+![webhook detections ](https://github.com/user-attachments/assets/6919d816-1ead-4c10-9f5a-56e96348404e)
