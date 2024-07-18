@@ -71,3 +71,6 @@ Example below.
 
 * Buidling out how user is presented with the option to isolate or not!
 ![User yes and no options to isolate](https://github.com/user-attachments/assets/f2d58b55-dde9-40a6-8b38-74231d542fd7)
+
+* If the user selects isolate the machine!
+* <img width="1289" alt="When the user selects isolate" src="https://github.com/user-attachments/assets/9d8968f2-3825-459b-9c60-3a27151bebea">
