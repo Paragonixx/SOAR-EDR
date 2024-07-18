@@ -64,11 +64,6 @@ Example below.
 
 * After receiving an alert and email notification, the user is giving the option to isolate the machine or not (user prompt below)!
 ![Screenshot 2024-07-18 at 12 25 36 PM](https://github.com/user-attachments/assets/94af589e-9b0c-481c-9f31-c2974d4cc94e)
-To center an image link using HTML, you can wrap the image in a `<div>` with a style that centers its content. Here’s how you can do it:
 
-<div style="text-align: center;">
-    <a href="https://github.com/user-attachments/assets/85dd8835-fd45-4da2-8aca-943002c440ac">
-        <img src="https://github.com/user-attachments/assets/85dd8835-fd45-4da2-8aca-943002c440ac" alt="Screenshot 2024-07-18 at 12 24 46 PM" />
-    </a>
-</div>
-```
+
+![Screenshot 2024-07-18 at 12 24 46 PM](https://github.com/user-attachments/assets/cdd60226-93e5-4ebb-b02a-999dc732a90b)
