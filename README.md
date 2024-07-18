@@ -1,4 +1,3 @@
-![Screenshot 2024-07-06 at 1 57 09 AM](https://github.com/user-attachments/assets/b727e440-e9f4-4903-81f7-1222f7d5a5af)
 # SOAR EDR
 
 ## Objective
@@ -31,3 +30,6 @@ Example below.
 
 *The Logical diagram used to set up my work flow!
 ![Paragon SOAR-EDR Logical Diagram](https://github.com/user-attachments/assets/d556f038-40a1-4f2a-9624-67dcc436ef36)
+
+
+<img width="1104" alt="Vultr- The windows VM in the cloud" src="https://github.com/user-attachments/assets/b811385d-e40d-4686-89f3-647ae0a9b299">
