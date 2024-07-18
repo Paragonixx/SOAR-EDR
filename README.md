@@ -64,4 +64,4 @@ Example below.
 
 * After receiving an alert and email notification, the user is giving the option to isolate the machine or not (user prompt below)!
 ![Screenshot 2024-07-18 at 12 25 36 PM](https://github.com/user-attachments/assets/94af589e-9b0c-481c-9f31-c2974d4cc94e)
-<center>![Screenshot 2024-07-18 at 12 24 46 PM](https://github.com/user-attachments/assets/85dd8835-fd45-4da2-8aca-943002c440ac)
+<img><center![Screenshot 2024-07-18 at 12 24 46 PM](https://github.com/user-attachments/assets/85dd8835-fd45-4da2-8aca-943002c440ac)>
