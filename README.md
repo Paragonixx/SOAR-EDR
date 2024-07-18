@@ -34,3 +34,6 @@ Example below.
 
 * Vultr - The Windows VM in the Cloud!
 <img width="1104" alt="Vultr- The windows VM in the cloud" src="https://github.com/user-attachments/assets/b811385d-e40d-4686-89f3-647ae0a9b299">
+
+* Installing LimaCharlie on Windows VM
+![Installing LimaCharlie on Windows VM](https://github.com/user-attachments/assets/ff912699-bdd6-479c-8434-173997e3f627)
