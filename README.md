@@ -43,3 +43,6 @@ Example below.
 
 * LimaCharlie Detecting the new event!
 <img width="1675" alt="LimaCharlie Showing the new event (LaZagne)" src="https://github.com/user-attachments/assets/d46c950b-e90d-47a6-a983-bf1a4c46b808">
+
+* Creating the detection rule for "LaZagne" in LimaCharlie!
+<img width="898" alt="The Detection and Respond rule- LimaCharlie" src="https://github.com/user-attachments/assets/d6921811-ebcc-4dae-9701-fe3013c874ad">
