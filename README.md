@@ -46,3 +46,6 @@ Example below.
 
 * Creating the detection rule for "LaZagne" in LimaCharlie!
 <img width="898" alt="The Detection and Respond rule- LimaCharlie" src="https://github.com/user-attachments/assets/d6921811-ebcc-4dae-9701-fe3013c874ad">
+
+* During this phase, I created a Slack and Tines account (not shown) and pushed those detections to Tines!
+<img width="1149" alt="Screenshot 2024-07-18 at 11 18 38 AM" src="https://github.com/user-attachments/assets/1ee7290c-4b68-4d3f-9325-665877053c8f">
