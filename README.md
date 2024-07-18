@@ -68,3 +68,6 @@ Example below.
 * Details of the message prompt!
   
 ![Screenshot 2024-07-18 at 12 24 46 PM](https://github.com/user-attachments/assets/cdd60226-93e5-4ebb-b02a-999dc732a90b)
+
+* Buidling out how user is presented with the option to isolate or not!
+![User yes and no options to isolate](https://github.com/user-attachments/assets/f2d58b55-dde9-40a6-8b38-74231d542fd7)
