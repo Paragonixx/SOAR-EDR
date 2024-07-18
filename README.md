@@ -49,3 +49,9 @@ Example below.
 
 * During this phase, I created a Slack and Tines account (not shown) and pushed those detections to Tines!
 <img width="1149" alt="Screenshot 2024-07-18 at 11 18 38 AM" src="https://github.com/user-attachments/assets/1ee7290c-4b68-4d3f-9325-665877053c8f">
+
+* In Tines, I created a webhook to retrieve the detections! (included: below is the detection)!
+
+![Screenshot 2024-07-18 at 11 23 11 AM](https://github.com/user-attachments/assets/e2828953-f2e4-4539-8eab-61a08b1ea351)
+![Screenshot 2024-07-07 at 10 54 32 AM](https://github.com/user-attachments/assets/cfa9a6b0-b42e-437e-9a72-657b7a5ce995)
+
