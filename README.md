@@ -55,3 +55,9 @@ Example below.
 ![Screenshot 2024-07-18 at 11 23 11 AM](https://github.com/user-attachments/assets/e2828953-f2e4-4539-8eab-61a08b1ea351)
 
 ![webhook detections ](https://github.com/user-attachments/assets/6919d816-1ead-4c10-9f5a-56e96348404e)
+
+* Building out communications between Tines and Slack..For when a detection is generated it will send an alert and email!
+![Screenshot 2024-07-18 at 12 10 19 PM](https://github.com/user-attachments/assets/97c4357f-43da-4d95-bbe8-24a1b8971b37)
+![Screenshot 2024-07-18 at 12 12 51 PM](https://github.com/user-attachments/assets/7f78ab74-1726-4b55-bd38-4aa762009403)
+
+![Screenshot 2024-07-18 at 12 18 54 PM](https://github.com/user-attachments/assets/a6c8b020-2aec-4b1e-9e63-9230314f69f3)
