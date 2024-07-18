@@ -37,3 +37,9 @@ Example below.
 
 * Installing LimaCharlie on Windows VM
 ![Installing LimaCharlie on Windows VM](https://github.com/user-attachments/assets/ff912699-bdd6-479c-8434-173997e3f627)
+
+*Downloading "LaZagne" - To start generating telemetry!
+<img width="818" alt="The download of LaZagne" src="https://github.com/user-attachments/assets/2f8d0d97-d71c-407e-8196-d314aa4c294e">
+
+* LimaCharlie Detecting the new event!
+<img width="1675" alt="LimaCharlie Showing the new event (LaZagne)" src="https://github.com/user-attachments/assets/d46c950b-e90d-47a6-a983-bf1a4c46b808">
